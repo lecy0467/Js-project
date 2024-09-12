@@ -32,4 +32,8 @@
     "scripts/seed.js"
   ],
   "exclude": ["node_modules"]
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f11c82bedb84c4896f1d6f34555535e0e26d5778
